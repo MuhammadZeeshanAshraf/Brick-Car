@@ -1,0 +1,2 @@
+# Referenced at E:\8.Game_Development\Brick Car\android\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:23
+-keep class androidx.multidex.MultiDexApplication { <init>(...); }
